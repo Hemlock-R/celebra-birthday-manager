@@ -1,25 +1,9 @@
-# Celebra — Smart Birthday & Relationship Manager
+HR-birthdays | Team Birthday Tracker & Event Coordinator
+Tech Stack: HTML5, CSS3, JavaScript (ES6+), Web Storage API (LocalStorage)
+A lightweight, local-first web app designed to automate team birthday tracking and streamline event logistics across professional and social groups.
 
-> Never miss a birthday again. A beautiful, smart way to track friends, family, and important dates.
+* Instant Coordination: Generates pre-formatted group broadcast alerts with venue and timing details.
+* One-Click Communication: Integrates with WhatsApp APIs for instant personalized wishes and group announcements.
+* Privacy-First: Utilizes secure browser local storage for fast, serverless data retention.
 
-🔗 **Live Demo:** https://celebra-birthday-manager.onrender.com
 
-[Celebra](https://img.shields.io/badge/Status-Live-success)
-[Relationships](https://img.shields.io/badge/Focus-Connection-blue)
-
-### ✨ Features
-- 🎂 Smart Birthday Tracking — Age calculation, days remaining
-- 🔔 Intelligent Reminders — Upcoming birthdays
-- 👥 Relationship Management — Family, Friends, Work
-- 🎁 Gift Ideas & History
-- 📅 Calendar View
-- 🔒 Privacy-First — All data stored locally on device
-
-### 🛠️ Tech Stack
-HTML5, CSS3, Vanilla JavaScript, LocalStorage, Responsive Design
-
-### 🚀 Run Locally
-```bash
-git clone https://github.com/YOUR_USERNAME/celebra-birthday-manager.git
-cd celebra-birthday-manager
-# Just open index.html
