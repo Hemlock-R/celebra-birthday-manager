@@ -1,5 +1,7 @@
-HR-birthdays | Team Birthday Tracker & Event Coordinator
-Tech Stack: HTML5, CSS3, JavaScript (ES6+), Web Storage API (LocalStorage)
+###HR-birthdays | Team Birthday Tracker & Event Coordinator
+
+###Tech Stack: HTML5, CSS3, JavaScript (ES6+), Web Storage API (LocalStorage)
+
 A lightweight, local-first web app designed to automate team birthday tracking and streamline event logistics across professional and social groups.
 
 * Instant Coordination: Generates pre-formatted group broadcast alerts with venue and timing details.
